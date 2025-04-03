@@ -10,6 +10,11 @@ export default function Home() {
       description: "GitHub repository search with debounced input",
       path: "/debounced",
     },
+    {
+      title: "Multi-Select Dropdown",
+      description: "A multi-select dropdown component",
+      path: "/custom-dropdown",
+    },
   ];
 
   return (
@@ -21,7 +26,7 @@ export default function Home() {
           A collection of common frontend implementation patterns.
         </p>
 
-        <div className="space-y-4">
+        <div className="space-y-4 flex flex-col">
           {projects.map((project, index) => (
             <Link key={index} href={project.path}>
               <div className="p-4 border border-gray-200 rounded-lg hover:border-gray-300 transition-all hover:shadow-sm">
