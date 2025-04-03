@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Machine Coding Round Questions
 
-## Getting Started
+| #  | Problem                                                                | Category           |
+|----|------------------------------------------------------------------------|--------------------|
+| 1  | To-Do App (CRUD + Filter)                                              | State Management   |
+| 2  | Debounced Search Component                                             | API Integration    |
+| 3  | Custom Dropdown with Multi-Select                                      | Component Design   |
+| 4  | Infinite Scroll List                                                   | API + UX           |
+| 5  | Modal Component with Nested Modals                                     | Accessibility      |
+| 6  | Star Rating Component (Controlled & Uncontrolled)                      | UI Components      |
+| 7  | Light/Dark Theme Toggle (Persistent)                                   | State Persistence  |
+| 8  | File Upload Component with Drag & Drop                                 | UX + API           |
+| 9  | Nested Comment Section (Reddit Style)                                  | Data Structure     |
+| 10 | Image Carousel (Autoplay + Swipe)                                      | UI Component       |
+| 11 | Tabs Component with Keyboard Navigation                                | Accessibility      |
+| 12 | Collapsible Sidebar Navigation                                         | Layout Design      |
+| 13 | Custom Hook for API Calls (useFetch)                                   | React Hooks        |
+| 14 | Optimized List Rendering (React.memo + Virtualization)                 | Performance        |
+| 15 | Timer/Stopwatch Component                                              | State Management   |
+| 16 | Controlled Form with Validation                                        | Forms              |
+| 17 | Pagination Component                                                   | Data Handling      |
+| 18 | Global State with Context API                                          | State Management   |
+| 19 | Accordion Component                                                    | UI Interaction     |
+| 20 | Notification (Toast) System                                            | UX Interaction     |
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
