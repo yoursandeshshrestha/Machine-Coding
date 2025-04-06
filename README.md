@@ -3,8 +3,6 @@
 | #   | Problem                                                | Category          |
 | --- | ------------------------------------------------------ | ----------------- |
 | 1   | To-Do App (CRUD + Filter)                              | State Management  |
-| 2   | Debounced Search Component                             | API Integration   |
-| 3   | Custom Dropdown with Multi-Select                      | Component Design  |
 | 4   | Infinite Scroll List                                   | API + UX          |
 | 5   | Modal Component with Nested Modals                     | Accessibility     |
 | 6   | Star Rating Component (Controlled & Uncontrolled)      | UI Components     |
@@ -22,3 +20,10 @@
 | 18  | Global State with Context API                          | State Management  |
 | 19  | Accordion Component                                    | UI Interaction    |
 | 20  | Notification (Toast) System                            | UX Interaction    |
+
+## Done
+
+| #   | Problem                           | Category         |
+| --- | --------------------------------- | ---------------- |
+| 2   | Debounced Search Component        | API Integration  |
+| 3   | Custom Dropdown with Multi-Select | Component Design |
