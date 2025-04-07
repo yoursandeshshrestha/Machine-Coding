@@ -4,7 +4,6 @@
 | --- | ------------------------------------------------------ | ----------------- |
 | 1   | To-Do App (CRUD + Filter)                              | State Management  |
 | 4   | Infinite Scroll List                                   | API + UX          |
-| 5   | Modal Component with Nested Modals                     | Accessibility     |
 | 6   | Star Rating Component (Controlled & Uncontrolled)      | UI Components     |
 | 7   | Light/Dark Theme Toggle (Persistent)                   | State Persistence |
 | 8   | File Upload Component with Drag & Drop                 | UX + API          |
@@ -23,7 +22,8 @@
 
 ## Done
 
-| #   | Problem                           | Category         |
-| --- | --------------------------------- | ---------------- |
-| 2   | Debounced Search Component        | API Integration  |
-| 3   | Custom Dropdown with Multi-Select | Component Design |
+| #   | Problem                            | Category         |
+| --- | ---------------------------------- | ---------------- |
+| 2   | Debounced Search Component         | API Integration  |
+| 3   | Custom Dropdown with Multi-Select  | Component Design |
+| 5   | Modal Component with Nested Modals | Accessibility    |
