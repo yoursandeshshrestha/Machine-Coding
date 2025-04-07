@@ -15,6 +15,11 @@ export default function Home() {
       description: "A multi-select dropdown component",
       path: "/custom-dropdown",
     },
+    {
+      title: "Modal Component",
+      description: "A modal component with nested modal support",
+      path: "/modal",
+    },
   ];
 
   return (
